@@ -1,0 +1,5 @@
+name: ChatColor
+version: '${project.version}'
+main: me.isoham.chatcolor.ChatColor
+api-version: 1.18
+authors: [ iSoham ]
